@@ -74,6 +74,10 @@ a:hover{
     top:50px;
 }
 
+.mountain-img{
+    width:60%;
+}
+
 .bottom-cloud{
     position: absolute;
     bottom: 300px;
